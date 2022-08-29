@@ -24,3 +24,15 @@ console.log(userSaveMovies);
 
 //array has indexing properties which can access the value
 //objects you have named properties
+
+// Array() constructor is used to create Array objects.
+/* example:
+new Array(element0, element1, '...' , elementN)
+new Array(arrayLength)
+
+Array(element0, element1, '...', elemntN)
+Array<arrayLength) */
+
+
+
+
