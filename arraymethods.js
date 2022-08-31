@@ -129,6 +129,6 @@ var starStudents = classRoom.students
     // the 0 always tells this where to start
   }, {sum: 0, arr: []});
 
-  var studentAverage = startStudents.sum / starStudents.arr.length;
+  var studentAverage = starStudents.sum / starStudents.arr.length;
 
 console.log(starStudents, studentAverage);
