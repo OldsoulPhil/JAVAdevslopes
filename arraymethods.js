@@ -95,7 +95,7 @@ var helloStudents = classRoom.students.map(function(student, i, array) {
   /*console.log(i);*/
   console.log(array);
   return 'Index ${i}: Hello ${student.name} '; /*student.name*/
-}
+})
                                            
 console.log(helloStudents);
 
