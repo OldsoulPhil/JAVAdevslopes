@@ -1,2 +1,3 @@
 # JAVAdevslopes
-All the practice while using JavaScript
+
+Practicing Javascript to showcase my skills.
