@@ -13,7 +13,12 @@ var filtered = numbers.filter(function(n, i) {
 console.log(filtered);
 
 ************************************************************
-
+/*var newArray = array.filter(function(item)
+ {
+  return conditional_statement;
+ });*/
+  
+  
 var classRoom = {
  grade: '3rd Grade',
  students: [
