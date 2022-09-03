@@ -3,6 +3,7 @@ var numbers = [2, 5, 6, 1];
 //array = numbers
 //method = .filter
 //function gets a callback of n(paramater)
+// (function(n, i) n = value: number, index: number, array: number[])
 var filtered = numbers.filter(function(n, i) {
   console.log(i);
   return n >= 5;
